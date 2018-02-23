@@ -1,0 +1,3 @@
+2017-10-13 16:52:06,707 - logging_test.py[line:7] - DEBUG:debug
+2017-10-13 16:52:06,707 - logging_test.py[line:8] - WARNING:warning
+2017-10-13 16:52:06,707 - logging_test.py[line:9] - INFO:info

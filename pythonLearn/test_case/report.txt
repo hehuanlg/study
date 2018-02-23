@@ -1,0 +1,7 @@
+test_error_user (loginCase.LoginCase) ... ok
+test_login_success (loginCase.LoginCase) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 31.146s
+
+OK
